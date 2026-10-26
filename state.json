@@ -688,5 +688,140 @@
   "name": "1 Lats 2003, Skudra",
   "price": "15,00",
   "url": "https://rns.lv/monetas/latvijas-monetas/apgrozibas-1-lata-monetas/1-lats-2003-skudra?limit=100"
+ },
+ "RS00473": {
+  "name": "Latvia, 2 santīmi 1937",
+  "price": "100,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-2-santimi-1937-14?limit=100"
+ },
+ "RS00472": {
+  "name": "Latvia, 2 santīmi 1937",
+  "price": "90,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-2-santimi-1937-13?limit=100"
+ },
+ "RS00331": {
+  "name": "Latvia, 1 santīms 1935",
+  "price": "50,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-1-santims-1935-5?limit=100"
+ },
+ "RS00330": {
+  "name": "Latvia, 1 santīms 1935",
+  "price": "50,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-1-santims-1935-4?limit=100"
+ },
+ "R21341": {
+  "name": "Latvia, 1 santīms 1922",
+  "price": "90,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-1-santims-1922-1?limit=100"
+ },
+ "R20892": {
+  "name": "Latvia, 2 santīmi 1938",
+  "price": "500,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-2-santimi-1938?limit=100"
+ },
+ "LV2S22": {
+  "name": "Latvia, 2 santīmi 1922",
+  "price": "3,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-2-santimi-1922?limit=100"
+ },
+ "LV1L24q": {
+  "name": "Latvia, 1 Lats 1924",
+  "price": "30,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-1-lats-1924-1?limit=100"
+ },
+ "LV2S32": {
+  "name": "Latvia, 2 santīmi 1932",
+  "price": "2,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-2-santimi-1932?limit=100"
+ },
+ "LV2S26": {
+  "name": "Latvia, 2 santīmi 1926",
+  "price": "2,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-2-santimi-1926?limit=100"
+ },
+ "LV2S28": {
+  "name": "Latvia, 2 santīmi 1928",
+  "price": "2,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-2-santimi-1928?limit=100"
+ },
+ "LV1S32": {
+  "name": "Latvia, 1 santīms 1932",
+  "price": "2,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-1-santims-1932?limit=100"
+ },
+ "LV1S37": {
+  "name": "Latvia, 1 santīms 1937",
+  "price": "2,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-1-santims-1937?limit=100"
+ },
+ "LV1S35": {
+  "name": "Latvia, 1 santīms 1935",
+  "price": "2,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-1-santims-1935?limit=100"
+ },
+ "LV1S38": {
+  "name": "Latvia, 1 santīms 1938",
+  "price": "2,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-1-santims-1938?limit=100"
+ },
+ "LV1S39": {
+  "name": "Latvia, 1 santīms 1939",
+  "price": "2,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-1-santims-1939?limit=100"
+ },
+ "LV50S22": {
+  "name": "Latvia, 50 santīmi 1922",
+  "price": "2,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-50-santimi-1922?limit=100"
+ },
+ "LV5S22": {
+  "name": "Latvia, 5 santīmi 1922",
+  "price": "3,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-5-santimi-1922?limit=100"
+ },
+ "LV5L32": {
+  "name": "Latvia, 5 Lati 1932",
+  "price": "67,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-5-lati-1932?limit=100"
+ },
+ "LV5L31": {
+  "name": "Latvia, 5 Lati 1931",
+  "price": "63,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-5-lati-1931?limit=100"
+ },
+ "LV5L29": {
+  "name": "Latvia, 5 Lati 1929",
+  "price": "63,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-5-lati-1929?limit=100"
+ },
+ "LV20S22": {
+  "name": "Latvia, 20 santīmi 1922",
+  "price": "2,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-20-santimi-1922?limit=100"
+ },
+ "LV2S39": {
+  "name": "Latvia, 2 santīmi 1939",
+  "price": "2,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-2-santimi-1939?limit=100"
+ },
+ "LV2L26": {
+  "name": "Latvia, 2 Lati 1926",
+  "price": "18,40",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-2-lati-1926?limit=100"
+ },
+ "LV2L25": {
+  "name": "Latvia, 2 Lati 1925",
+  "price": "18,40",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-2-lati-1925?limit=100"
+ },
+ "LV10S22": {
+  "name": "Latvia, 10 santīmi 1922",
+  "price": "2,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-10-santimi-1922?limit=100"
+ },
+ "LV1L24": {
+  "name": "Latvia, 1 Lats 1924",
+  "price": "9,40",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-1-lats-1924?limit=100"
  }
 }
