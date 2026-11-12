@@ -16,17 +16,17 @@
  },
  "LS98-100": {
   "name": "Latvija, 100 Latu 1998",
-  "price": "892,00",
+  "price": "883,70",
   "url": "https://rns.lv/monetas/latvijas-monetas/1992-2013/latvija-100-latu-1998?limit=100"
  },
  "LS93-03": {
   "name": "Latvija, 100 Latu 1993, Latvijas Republikai - 75",
-  "price": "158,10",
+  "price": "153,00",
   "url": "https://rns.lv/monetas/latvijas-monetas/1992-2013/latvija-100-latu-1993-latvijas-republikai-75?limit=100"
  },
  "R06699": {
   "name": "Latvija, 1993. gada Banka Baltija zelta medaļa - pāvesta Jaņa Pāvila II vizīte Latvijā",
-  "price": "643,00",
+  "price": "640,20",
   "url": "https://rns.lv/monetas/latvijas-monetas/1992-2013/latvija-1993-gada-banka-baltija-zelta-medala-pavesta-jana-pavila-ii-vizite-latvija?limit=100"
  },
  "LS05-set": {
@@ -111,7 +111,7 @@
  },
  "LS97-02": {
   "name": "Latvija, 20 Latu 1997, Fregate - Gekrönte Ehlendt",
-  "price": "622,40",
+  "price": "619,70",
   "url": "https://rns.lv/monetas/latvijas-monetas/1992-2013/latvija-20-latu-1997-fregate-gekronte-ehlendt?limit=100"
  },
  "2LS2003": {
@@ -231,7 +231,7 @@
  },
  "LS08-06": {
   "name": "Latvija, 20 Latu 2008, Latvijas monēta",
-  "price": "375,00",
+  "price": "370,00",
   "url": "https://rns.lv/monetas/latvijas-monetas/1992-2013/latvija-20-latu-2008-latvijas-moneta?limit=100"
  },
  "LS97-05": {
@@ -704,6 +704,11 @@
   "price": "15,00",
   "url": "https://rns.lv/monetas/latvijas-monetas/apgrozibas-1-lata-monetas/1-lats-2003-skudra?limit=100"
  },
+ "RS00652": {
+  "name": "Latvia, 1 Santīms 1932",
+  "price": "75,00",
+  "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-1-santims-1932-5?limit=100"
+ },
  "RS00658": {
   "name": "Latvia, 5 Santīmi 1922",
   "price": "50,00",
@@ -716,7 +721,7 @@
  },
  "RS00642": {
   "name": "Latvia, 1 Santīms 1923",
-  "price": "000,00",
+  "price": "0,00",
   "url": "https://rns.lv/monetas/latvijas-monetas/1922-1939/latvia-1-santims-1923?limit=100"
  },
  "RS00333": {
